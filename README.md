@@ -2,8 +2,6 @@
 Week 3 - Password Cracking | Networkwalks Cybersecurity Internship Batch B084 | Tools: John the Ripper, Johnny GUI, Networkwalks Hash Calculator, Networkwalks Password Cracker
 
 ## Password Cracking with John the Ripper and Networkwalks Tools
-**Intern:** Charles "Sig" Ebuka
-**Intern ID:** NW-084&0FG
 **Batch:** B084
 **Date:** November 2026
 
